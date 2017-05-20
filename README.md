@@ -1,0 +1,2 @@
+# MiniProjectSCM
+RyokoNiJapan_FinalVersion
