@@ -21,19 +21,17 @@
                                 <td>
                                     Name :</td>
                                 <td>
-                                    <asp:TextBox ID="TBbookingname" runat="server"></asp:TextBox>
-                                    <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" 
-                                        ErrorMessage="*Please enter your name" ForeColor="#CC0000" ControlToValidate="TBbookingname"></asp:RequiredFieldValidator>
+                                    <strong style="text-align: center">
+                                    <asp:Label ID="lblname" runat="server"></asp:Label>
+                                    </strong>
                                 </td>
                             </tr>
                             <tr>
                                 <td>
                                     IC Number:</td>
                                 <td>
-                                    <asp:TextBox ID="TBbookingIC" runat="server"></asp:TextBox>
-                                    <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" 
-                                        ErrorMessage="*Please insert your IC number" ForeColor="#CC0000" ControlToValidate="TBbookingIC"></asp:RequiredFieldValidator>
-                                </td>
+                                   <strong style="text-align: center"><asp:Label ID="lblic" runat="server"></asp:Label></strong> 
+                            </td>
                             </tr>
                             <tr>
                                 <td class="auto-style3">
