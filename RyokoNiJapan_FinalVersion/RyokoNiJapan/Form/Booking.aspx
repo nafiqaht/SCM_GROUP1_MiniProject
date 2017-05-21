@@ -110,7 +110,7 @@
                                 <td class="style23">
                                     &nbsp;</td>
                                 <td class="style19">
-                                    <asp:Button ID="btnbook" runat="server" onclick="btnbook_Click" Text="BOOK" />
+                                    <asp:Button ID="btnbook" runat="server" onclick="btnbook_Click" Text="BOOK NOW" />
                                 </td>
                             </tr>
                         </table>
