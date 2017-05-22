@@ -35,7 +35,7 @@
                     <span style="font-family: 'Bradley Hand ITC'; font-size: x-large"><strong>Package B 
                     </strong></span>- 7D6N</span><br />
                     <br />Travel Area : 
-                    <br />Tokyo, Osaka, Sapporo, Kyoto, Hokaido, Wakayama 
+                    <br />Tokyo, Osaka, Sapporo, Kyoto, Hokaido and Wakayama 
                     <br />
                 </td>
                 <td>
