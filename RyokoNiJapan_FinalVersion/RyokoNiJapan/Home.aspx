@@ -68,6 +68,15 @@
                             over. The near-circular lake is the remains of a volcanic eruption that hollowed 
                             out the ground. Mount Usu lies on the southern rim of the lake and Nakajima 
                             Island sits at the center.</div></div>
+	
+	 <div class="card">
+                		<div class="front">  <img src="picture/lake.jpg" style="height: 250px; width: 250px"/></div>
+	                    <div class="back">   Lake Toya (Hokkaido)<br />
+                            <br />
+                            Even in winters that plummet well below freezing point, Lake Toya never ices 
+                            over. The near-circular lake is the remains of a volcanic eruption that hollowed 
+                            out the ground. Mount Usu lies on the southern rim of the lake and Nakajima 
+                            Island sits at the center.</div></div>
 
                     <div class="card">
                 		<div class="front">   <img src="picture/town.jpg" style="height: 250px; width: 250px"/></div>
