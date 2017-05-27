@@ -48,6 +48,17 @@
                             190-hectare park constantly changes color with the seasons. During the 
                             transition into fall, puffy kochia shrubs turn from vibrant green to fiery red. <br /><br />
                         </div></div>
+	
+	<div class="card">
+                    	<div class="front">  <img src="picture/park.jpg" style="height: 250px; width: 250px"/></div>
+                		<div class="back">   Hitachi Seaside Park (Ibaraki)<br />
+                            <br />
+                            Also known as &quot;baby blue eyes,&quot; more than four million nemophilas bloom from 
+                            late April to May in Hitachi Seaside Park, the public park on Miharashi Hill. 
+                            The Nemophila Harmony is the highlight of park&#39;s flowering events. The 
+                            190-hectare park constantly changes color with the seasons. During the 
+                            transition into fall, puffy kochia shrubs turn from vibrant green to fiery red. <br /><br />
+                        </div></div>
 
                     <div class="card">
 		                <div class="front">  <img src="picture/lavender%20field.jpg" style="height: 250px; width: 250px"/></div>
